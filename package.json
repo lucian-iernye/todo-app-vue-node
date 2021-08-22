@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "cd server && npm install",
     "client": "cd client && npm install",
-    "install": "npm run server && npm run client",
+    "install-all": "npm run server && npm run client",
     "backend": "cd server && npm run dev",
     "front-end": "cd client && npm run serve",
     "dev": "npm run backend && npm run front-end",
@@ -17,7 +17,7 @@
     "type": "git",
     "url": "git+https://github.com/lucian-iernye/todo-app-vue-node.git"
   },
-  "author": "Lucian Iernyes",
+  "author": "Lucian Iernye",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lucian-iernye/todo-app-vue-node/issues"

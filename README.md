@@ -4,11 +4,11 @@ Tech test - Lucian Iernye
 
 ## Steps:
 
-- clone the project: git clone + url
+- clone the project: **git clone + url**
 - cd into the main/root folder
-- run: npm install and wait for the completion
-- run: npm run install-all and wait for the completion
-- run: npm start and wait for the completion
+- run: **npm install** and wait for the completion
+- run: **npm run install-all** and wait for the completion
+- run: **npm start** and wait for the completion
 - The app is now online on http://localhost:8080/
 - To add a new todo press the button Add Todo and fill the required information
 

@@ -21,5 +21,3 @@ In the backend I created the endpoints to support to update the todo item, but I
 
 &nbsp;
 &nbsp;
-
-### Developed by _Lucian Iernye_
